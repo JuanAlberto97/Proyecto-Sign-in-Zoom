@@ -1,0 +1,48 @@
+.body{
+    display: flex;
+}
+
+.header0{
+    display: flex;
+    padding-left: 15px;
+    padding-right: 5px;
+    flex-direction: row-reverse;
+    background-color: #39394d;
+    color: white;
+    font-size: small;
+}
+
+/* nav{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+} */
+
+.menu1{
+    width: 30px;
+    height: 20px;
+    background-color: ;
+    border: black solid 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul{
+    flex-wrap: wrap-reverse;
+}
+
+button{
+    background-color: darkorange;
+    color: white;
+    border: 0;
+    width: 150px;
+    border-radius: 5px;
+    padding: 4px;
+}
+
+.zoom-logo{
+    padding: 1.5em;
+    margin-left: 10em;
+    flex-wrap: nowrap;
+}
